@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Shreyansh Jain's Portfolio",
     type: "website",
-   url:"https://Kshitijchaudhary.vercel.app/",
+   url:"https://ShreyanshJain.vercel.app/",
   },
 };
 
