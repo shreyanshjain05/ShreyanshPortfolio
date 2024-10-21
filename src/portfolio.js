@@ -259,7 +259,7 @@ const experience = {
           duration: "October 2024 - Present",
           location: "Chennai,India",
           description:
-            "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I was responsible for leading it's technical team",
+            "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I am responsible for leading it's technical team apart from also responsible to make strategic plans to ensure dynamic growth of the club",
           color: "#4285F4",
         },
 
@@ -271,7 +271,7 @@ const experience = {
           duration: "March 2024 - Present",
           location: "Chennai,India",
           description:
-            "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I am responsible for working with it's technical team apart fromt this i am also responsible to make strategic plans to ensure dynamic growth of the club",
+            "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I am responsible for working with it's technical team apart from this i am also responsible to make strategic plans to ensure dynamic growth of the club",
           color: "#4285F4",
         },
 
