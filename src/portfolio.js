@@ -214,7 +214,7 @@ const certifications = {
 // Experience Page
 const experience = {
   // title: "Experience",
-  subtitle: "Internship, Projects and position of responsibility",
+  subtitle: "Projects and position of responsibility",
   description:
     "I have made more than 10 projects on machine learning, AI , deep learning which can be found on my github account. Apart from this I am also core member and strategic planner of SlugNPlug, which is a technical student community of my college .",
   header_image_path: "experience.svg",
