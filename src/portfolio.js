@@ -127,9 +127,9 @@ const degrees = {
       alt_name: "IIITDM Kurnool",
       duration: "2023 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, , AI etc.",
-        "⚡ I have done courses on Machine Learning, Data Science,AI and Data analytics and currently persuing a course in Deep Learning.",
-        "⚡ Apart from this, I am also a University's Merit-Based Scholership Holder.",
+        "I have studied basic software engineering subjects like DS, Algorithms, DBMS, , AI etc.",
+        "I have done courses on Machine Learning, Data Science,AI and Data analytics and currently persuing a course in Deep Learning.",
+        "Apart from this, I am also a University's Merit-Based Scholership Holder.",
 
       
       ],
@@ -251,6 +251,17 @@ const experience = {
     {
       title: "Position of Responsibility",
       experiences: [
+         {
+          title: "Technical Team Member",
+          company: "Innovation Incubation and Entrepreneurship Cell of SRM IST RMP",
+          company_url: "https://www.linkedin.com/company/iie-srm-ist-rmp/posts/?feedView=all",
+          logo_path: "iie.jpeg",
+          duration: "November 2024 - Present",
+          location: "Chennai,India",
+          description:
+            "IIE is the Innovation and Incubation Center of SRM IST RMP. My role is integrating machine learning into various sectors to drive scalability, efficiency and build impactful solutions",
+          color: "#4285F4",
+        },
         {
           title: "Technical Team Lead",
           company: "SlugNPlug",
@@ -260,18 +271,6 @@ const experience = {
           location: "Chennai,India",
           description:
             "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I am responsible for leading it's technical team apart from also responsible to make strategic plans to ensure dynamic growth of the club",
-          color: "#4285F4",
-        },
-
-        {
-          title: "Technical Team Member",
-          company: "SlugNPlug",
-          company_url: "https://www.linkedin.com/company/slug-n-plug/mycompany",
-          logo_path: "SNP.jpg",
-          duration: "March 2024 - Present",
-          location: "Chennai,India",
-          description:
-            "SlugNPlug is a technical club of SRMIST responsible for conducting events, workshops and competitions around new trends in tech, I am responsible for working with it's technical team apart from this i am also responsible to make strategic plans to ensure dynamic growth of the club",
           color: "#4285F4",
         },
 
