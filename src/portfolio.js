@@ -163,8 +163,17 @@ const degrees = {
 
 const certifications = {
   certifications: [
+     {
+      title: "Deep Learning Speacialisation",
+      subtitle: "-Deep Learning",
+      logo_path: "dl.png",
+      certificate_link:
+        "https://coursera.org/share/b605d179ef5fdc80ed8b6b6a203f0a86",
+      alt_name: "Stanford University",
+      color_code: "#FFFFFF",
+    },
     {
-      title: "Machine Learning",
+      title: "Machine Learning Speacialisation",
       subtitle: "-Machine Learning",
       logo_path: "dl.png",
       certificate_link:
